@@ -1,1 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2022-11-07T12:39:18.412Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.5.3" etag="21T7CRbUPe5S2EHf5YLU" type="github"><diagram id="i0N3QaZoobX9qh78vkyK">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-07T12:40:53.017Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="tPVzkKaLHbmHzitkTsRk" version="20.5.3" type="github">
+  <diagram id="i0N3QaZoobX9qh78vkyK" name="Halaman-1">
+    <mxGraphModel dx="868" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="T_Rfj2bbD2A8QbaqjHWZ-1" value="Pasien" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="200" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T_Rfj2bbD2A8QbaqjHWZ-2" value="Dokter" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="120" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T_Rfj2bbD2A8QbaqjHWZ-3" value="Administrator" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="240" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T_Rfj2bbD2A8QbaqjHWZ-4" value="Front Officer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="340" width="30" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
