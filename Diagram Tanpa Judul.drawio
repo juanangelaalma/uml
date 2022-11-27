@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-27T16:51:00.293Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="rr6UzpuFo9L_RZHseREW" version="20.6.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-11-27T16:57:02.206Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="LgIepVSLIAx3VyS0Qe2H" version="20.6.0" type="github" pages="2">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Login">
     <mxGraphModel dx="723" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -278,7 +278,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="y69Vs6Fo9_orbDN5cXLZ" name="Mencatat Nota Pesanan">
-    <mxGraphModel dx="620" dy="371" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="543" dy="325" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -333,8 +333,13 @@
         <mxCell id="MmTH8eeW1jRVPkHe3Wya-8" value="e_MembuatNota" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="545" y="90" width="120" height="130" as="geometry" />
         </mxCell>
+        <mxCell id="MmTH8eeW1jRVPkHe3Wya-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;startArrow=none;startFill=0;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="MmTH8eeW1jRVPkHe3Wya-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="820" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="MmTH8eeW1jRVPkHe3Wya-11" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="814" y="240" width="10" height="120" as="geometry" />
+          <mxGeometry x="814" y="240" width="10" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MmTH8eeW1jRVPkHe3Wya-12" value="e_Produk" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="759" y="90" width="120" height="150" as="geometry" />
@@ -418,6 +423,33 @@
               <mxPoint x="424.7" y="463" />
               <mxPoint x="424.7" y="487" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MmTH8eeW1jRVPkHe3Wya-30" value="e_NotaPesanan" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="90" width="120" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="MmTH8eeW1jRVPkHe3Wya-31" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="1015" y="510" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MmTH8eeW1jRVPkHe3Wya-32" value="QueryDataPemesanDanPesanan()" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;exitX=0.978;exitY=0.545;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.238;entryY=-0.01;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MmTH8eeW1jRVPkHe3Wya-19" target="MmTH8eeW1jRVPkHe3Wya-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="609.32" y="510.36" as="sourcePoint" />
+            <mxPoint x="814.0000000000001" y="510.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MmTH8eeW1jRVPkHe3Wya-33" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#000000;exitX=1.087;exitY=0.652;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="610.0699999999999" y="568.24" as="sourcePoint" />
+            <mxPoint x="639.2" y="540" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="639.2" y="568" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MmTH8eeW1jRVPkHe3Wya-34" value="SuksesSimpanDataPemesananDanPesanan()" style="verticalAlign=bottom;endArrow=none;shadow=0;strokeWidth=1;exitX=1.015;exitY=-0.003;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0.378;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;startArrow=block;startFill=1;" edge="1" parent="1" target="MmTH8eeW1jRVPkHe3Wya-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="610" y="540" as="sourcePoint" />
+            <mxPoint x="813.1999999999998" y="540.24" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
