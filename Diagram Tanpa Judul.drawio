@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-27T16:46:24.824Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="oylSzYOP_Zh_tmys2DiF" version="20.6.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-11-27T16:51:00.293Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="rr6UzpuFo9L_RZHseREW" version="20.6.0" type="github" pages="2">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Login">
     <mxGraphModel dx="723" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -278,7 +278,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="y69Vs6Fo9_orbDN5cXLZ" name="Mencatat Nota Pesanan">
-    <mxGraphModel dx="423" dy="254" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="620" dy="371" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -379,6 +379,45 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="400" y="390" as="sourcePoint" />
             <mxPoint x="600" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MmTH8eeW1jRVPkHe3Wya-23" value="" style="endArrow=block;html=1;rounded=0;strokeColor=#000000;exitX=0.971;exitY=0.052;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.949;entryY=0.14;entryDx=0;entryDy=0;entryPerimeter=0;endFill=1;" edge="1" parent="1" source="MmTH8eeW1jRVPkHe3Wya-19" target="MmTH8eeW1jRVPkHe3Wya-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="420" as="sourcePoint" />
+            <mxPoint x="680" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="690" y="400" />
+              <mxPoint x="690" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MmTH8eeW1jRVPkHe3Wya-24" value="PeriksaFormatMasukkan()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="610" y="378" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MmTH8eeW1jRVPkHe3Wya-26" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#000000;entryX=1.03;entryY=0.295;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;" edge="1" parent="1" target="MmTH8eeW1jRVPkHe3Wya-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="420" as="sourcePoint" />
+            <mxPoint x="619.49" y="429.79999999999995" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="640" y="430" />
+              <mxPoint x="640" y="454" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MmTH8eeW1jRVPkHe3Wya-27" value="TampilanPesanFormatSalah()" style="verticalAlign=bottom;endArrow=none;shadow=0;strokeWidth=1;exitX=0.981;exitY=0.652;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.08;entryY=0.002;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;startArrow=block;startFill=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="394.99999999999994" y="452.99999999999994" as="sourcePoint" />
+            <mxPoint x="600.1899999999998" y="453.44" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MmTH8eeW1jRVPkHe3Wya-28" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#000000;entryX=1.03;entryY=0.295;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="424.7" y="453" as="sourcePoint" />
+            <mxPoint x="395.00000000000017" y="486.9" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="424.7" y="463" />
+              <mxPoint x="424.7" y="487" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
