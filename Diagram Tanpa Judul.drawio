@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-28T03:15:24.775Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="Rlk0l9S5Ps4sjLl7kaLs" version="20.6.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-11-28T03:15:45.368Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="j_KSyRW2cSSE0vTiCIeJ" version="20.6.0" type="github" pages="4">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Login">
     <mxGraphModel dx="1447" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -900,7 +900,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="HO4vkt4_nZovGnSN_zxv" name="Mengelola Data Bill of Material">
-    <mxGraphModel dx="964" dy="578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1447" dy="867" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -909,6 +909,11 @@
         </mxCell>
         <mxCell id="73HgtEXB00noQQrRfpP7-1" value="Koordinator Produksi" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="150" y="110" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OcGH35MkzwBkchFMTNus-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="OyOREGr6r4ZL2-BAE9UM-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="165" y="830" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="OyOREGr6r4ZL2-BAE9UM-1" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="220" width="10" height="430" as="geometry" />
