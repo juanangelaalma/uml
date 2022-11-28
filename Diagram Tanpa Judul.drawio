@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-28T02:17:16.364Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="LdSAzAZgReA0Co-EK_Re" version="20.6.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-11-28T02:42:05.014Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="SVB_As1SebgVrGlOtQTU" version="20.6.0" type="github" pages="4">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Login">
     <mxGraphModel dx="1447" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -602,10 +602,13 @@
     </mxGraphModel>
   </diagram>
   <diagram id="GascBlquEAkGIunnJPTe" name="Merencanakan Penjadwalan Produksi">
-    <mxGraphModel dx="1578" dy="945" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1240" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="4DM0J0Fnw_sEB4Tv1GCn-1" value="sd Merencanakan Penjadwalan produksi" style="shape=umlFrame;whiteSpace=wrap;html=1;width=250;height=20;" vertex="1" parent="1">
+          <mxGeometry x="90" y="10" width="940" height="850" as="geometry" />
+        </mxCell>
         <mxCell id="nXs98Qb0yLTm99wJ7CE6-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="Nb4jUvagySS5q9IxqqQv-1" target="nXs98Qb0yLTm99wJ7CE6-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -893,8 +896,43 @@
             <mxPoint x="684" y="720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4DM0J0Fnw_sEB4Tv1GCn-1" value="sd Merencanakan Penjadwalan produksi" style="shape=umlFrame;whiteSpace=wrap;html=1;width=250;height=20;" vertex="1" parent="1">
-          <mxGeometry x="90" y="10" width="940" height="850" as="geometry" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="HO4vkt4_nZovGnSN_zxv" name="Mengelola Data Bill of Material">
+    <mxGraphModel dx="827" dy="495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OyOREGr6r4ZL2-BAE9UM-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.445;entryY=0.002;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="73HgtEXB00noQQrRfpP7-1" target="OyOREGr6r4ZL2-BAE9UM-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="73HgtEXB00noQQrRfpP7-1" value="Koordinator Produksi" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="110" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OyOREGr6r4ZL2-BAE9UM-1" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="220" width="10" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="QfPGbZTogaPhiDFgAlgT-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=-0.002;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="OyOREGr6r4ZL2-BAE9UM-3" target="QfPGbZTogaPhiDFgAlgT-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OyOREGr6r4ZL2-BAE9UM-3" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="222" width="10" height="228" as="geometry" />
+        </mxCell>
+        <mxCell id="vWFanCjUk8NezT6jE5eM-1" value="BukaBOMView()" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;exitX=1.015;exitY=-0.003;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="222" as="sourcePoint" />
+            <mxPoint x="350" y="222" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QfPGbZTogaPhiDFgAlgT-1" value="MPSView" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="295" y="125" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="QfPGbZTogaPhiDFgAlgT-2" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="460" width="10" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="QfPGbZTogaPhiDFgAlgT-4" value="c_BoM" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="125" width="120" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
