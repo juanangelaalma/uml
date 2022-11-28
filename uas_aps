@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-28T13:03:37.968Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="GiNwt-PNGCmf_hdEnXW3" version="20.6.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-11-28T13:04:24.636Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="gnsbv6CKVBLDc8SVKLHi" version="20.6.0" type="github" pages="3">
   <diagram id="i0N3QaZoobX9qh78vkyK" name="Halaman-1">
     <mxGraphModel dx="868" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -135,11 +135,11 @@
     </mxGraphModel>
   </diagram>
   <diagram id="6j_vCI4UqB0P73Mxk7t4" name="Halaman-2">
-    <mxGraphModel dx="2893" dy="1733" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="643" dy="385" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="K33ZSDDKp8nZalLuiqQk-2" value="Mendaftarkan Akun Karyawan" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="K33ZSDDKp8nZalLuiqQk-2" value="Melihat Akun Karyawan" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="150" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="GY6G5Gj7qaKlABua9gfT-3" value="Mengedit Akun Karyawan" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -172,6 +172,14 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="sIVNMK2kT-kZY-HfQ6sr" name="Halaman-3">
+    <mxGraphModel dx="868" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
