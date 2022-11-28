@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-28T02:45:12.645Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="BGu21GAFGWEzWNp4izYG" version="20.6.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-11-28T03:05:02.312Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="k9wNwDO0K_wgrhSVic5B" version="20.6.0" type="github" pages="4">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Login">
     <mxGraphModel dx="1447" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -900,7 +900,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="HO4vkt4_nZovGnSN_zxv" name="Mengelola Data Bill of Material">
-    <mxGraphModel dx="723" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="789" dy="473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -946,6 +946,9 @@
             <mxPoint x="350" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="6sr6sDMayl9vA8FlPnhS-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.423;entryY=0.005;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="QfPGbZTogaPhiDFgAlgT-6" target="6sr6sDMayl9vA8FlPnhS-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="QfPGbZTogaPhiDFgAlgT-6" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="535" y="235" width="10" height="100" as="geometry" />
         </mxCell>
@@ -970,6 +973,72 @@
             <mxPoint x="563.7399999999998" y="270" as="targetPoint" />
             <Array as="points">
               <mxPoint x="563.74" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6sr6sDMayl9vA8FlPnhS-3" value="e_BahanBaku" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="125" width="120" height="235" as="geometry" />
+        </mxCell>
+        <mxCell id="6sr6sDMayl9vA8FlPnhS-5" value="TampilanDataBoM()" style="verticalAlign=bottom;endArrow=none;shadow=0;strokeWidth=1;endFill=0;startArrow=block;startFill=1;exitX=1.011;exitY=0.301;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="OyOREGr6r4ZL2-BAE9UM-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="399.06999999999994" y="290.34000000000003" as="sourcePoint" />
+            <mxPoint x="535" y="290.72" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6sr6sDMayl9vA8FlPnhS-6" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="310" as="sourcePoint" />
+            <mxPoint x="400" y="290" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6sr6sDMayl9vA8FlPnhS-7" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="535" y="349" width="10" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="6sr6sDMayl9vA8FlPnhS-9" value="LoadDataBahanBaku()   " style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;entryX=0.152;entryY=0.001;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="6sr6sDMayl9vA8FlPnhS-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="349" as="sourcePoint" />
+            <mxPoint x="534.9300000000001" y="350.9199999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6sr6sDMayl9vA8FlPnhS-10" value="TampilanDataBahanBaku()" style="verticalAlign=bottom;endArrow=none;shadow=0;strokeWidth=1;endFill=0;startArrow=block;startFill=1;exitX=1.011;exitY=0.301;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360.11" y="400.628" as="sourcePoint" />
+            <mxPoint x="535.0000000000001" y="400.7200000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6sr6sDMayl9vA8FlPnhS-11" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="420" as="sourcePoint" />
+            <mxPoint x="400" y="399.99999999999994" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6sr6sDMayl9vA8FlPnhS-12" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="845" y="359" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6sr6sDMayl9vA8FlPnhS-13" value="SelectDataBahanBaku()   " style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;entryX=0.038;entryY=0.002;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="6sr6sDMayl9vA8FlPnhS-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="545" y="360" as="sourcePoint" />
+            <mxPoint x="721.52" y="360.1" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6sr6sDMayl9vA8FlPnhS-14" value="ReturnDataBahanBaku()" style="verticalAlign=bottom;endArrow=none;shadow=0;strokeWidth=1;endFill=0;startArrow=block;startFill=1;exitX=1.007;exitY=0.416;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.126;entryY=0.383;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="6sr6sDMayl9vA8FlPnhS-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="545.0699999999999" y="389.34000000000003" as="sourcePoint" />
+            <mxPoint x="681" y="389.7199999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6sr6sDMayl9vA8FlPnhS-15" value="" style="endArrow=none;html=1;rounded=0;exitX=1.026;exitY=0.683;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="545" y="408.9140000000001" as="sourcePoint" />
+            <mxPoint x="564.7399999999998" y="389" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="564.74" y="409" />
             </Array>
           </mxGeometry>
         </mxCell>
