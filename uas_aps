@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-11-28T00:56:50.161Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="1aC0FJ-M5PUTsjAyl1ve" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-28T01:04:33.694Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="gRdirLQ6G-hHqIs4MgGf" version="20.6.0" type="github">
   <diagram id="i0N3QaZoobX9qh78vkyK" name="Halaman-1">
-    <mxGraphModel dx="1021" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="2170" dy="1300" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="T_Rfj2bbD2A8QbaqjHWZ-51" value="frame" style="shape=umlFrame;whiteSpace=wrap;html=1;strokeColor=default;" parent="1" vertex="1">
-          <mxGeometry x="630" y="250" width="990" height="770" as="geometry" />
+          <mxGeometry x="630" y="270" width="990" height="770" as="geometry" />
         </mxCell>
         <mxCell id="T_Rfj2bbD2A8QbaqjHWZ-1" value="Pasien" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="1690" y="890" width="30" height="60" as="geometry" />
@@ -25,7 +25,7 @@
         <mxCell id="T_Rfj2bbD2A8QbaqjHWZ-8" value="Register" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1330" y="580" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="T_Rfj2bbD2A8QbaqjHWZ-9" value="Mendaftar Pasien" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="T_Rfj2bbD2A8QbaqjHWZ-9" value="Mendaftar Layanan" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1110" y="880" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="T_Rfj2bbD2A8QbaqjHWZ-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.983;entryY=0.288;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="T_Rfj2bbD2A8QbaqjHWZ-1" target="T_Rfj2bbD2A8QbaqjHWZ-9" edge="1">
@@ -99,7 +99,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="T_Rfj2bbD2A8QbaqjHWZ-33" value="Mendaftarkan akun karyawan" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="T_Rfj2bbD2A8QbaqjHWZ-33" value="Mendaftarkan Akun Karyawan" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1190" y="450" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="T_Rfj2bbD2A8QbaqjHWZ-35" value="include" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;endArrow=block;endFill=1;entryX=0.94;entryY=0.268;entryDx=0;entryDy=0;exitX=0.076;exitY=0.761;exitDx=0;exitDy=0;dashed=1;entryPerimeter=0;exitPerimeter=0;startArrow=none;startFill=0;" parent="1" source="T_Rfj2bbD2A8QbaqjHWZ-33" target="T_Rfj2bbD2A8QbaqjHWZ-7" edge="1">
