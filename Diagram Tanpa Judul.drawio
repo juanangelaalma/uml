@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-28T03:20:22.279Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="q7S7nh6QLRu2gF3gbarp" version="20.6.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-11-28T03:20:47.457Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="7dL99JJQxhJtP955TCS9" version="20.6.0" type="github" pages="4">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Login">
     <mxGraphModel dx="1447" dy="867" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -904,7 +904,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="kqN0zgbtfHxnQGSJW6AW-1" value="sd Merencanakan Penjadwalan produksi" style="shape=umlFrame;whiteSpace=wrap;html=1;width=250;height=20;" vertex="1" parent="1">
+        <mxCell id="kqN0zgbtfHxnQGSJW6AW-1" value="sd Mengelola Data Bill of Material" style="shape=umlFrame;whiteSpace=wrap;html=1;width=250;height=20;" vertex="1" parent="1">
           <mxGeometry x="80" y="60" width="940" height="850" as="geometry" />
         </mxCell>
         <mxCell id="OyOREGr6r4ZL2-BAE9UM-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.445;entryY=0.002;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="73HgtEXB00noQQrRfpP7-1" target="OyOREGr6r4ZL2-BAE9UM-1">
