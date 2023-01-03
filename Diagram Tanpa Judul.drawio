@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-03T02:32:54.067Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="4lw-Em5cMIrY0tVrRqv3" version="20.7.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-01-03T02:33:47.767Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="u6j3aSfZToqj-g4l9cuC" version="20.7.3" type="github" pages="2">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="880" dy="476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -109,7 +109,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Jv4OvvFQTeN9pL4F2m3P" name="Halaman-2">
-    <mxGraphModel dx="1354" dy="732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1760" dy="952" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -135,10 +135,10 @@
           <mxGeometry x="350" y="310" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RojvY0QY_VeGFR1A-8Ju-9" value="Melakukan voting" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="620" width="120" height="80" as="geometry" />
+          <mxGeometry x="360" y="710" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RojvY0QY_VeGFR1A-8Ju-10" value="Melihat hasil" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="490" width="120" height="80" as="geometry" />
+          <mxGeometry x="350" y="580" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RojvY0QY_VeGFR1A-8Ju-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RojvY0QY_VeGFR1A-8Ju-1" target="RojvY0QY_VeGFR1A-8Ju-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -186,6 +186,21 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="195" y="630" as="sourcePoint" />
             <mxPoint x="370" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RojvY0QY_VeGFR1A-8Ju-20" value="Melihat voting guide" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="450" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RojvY0QY_VeGFR1A-8Ju-21" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.011;entryY=0.626;entryDx=0;entryDy=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="RojvY0QY_VeGFR1A-8Ju-2" target="RojvY0QY_VeGFR1A-8Ju-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="195" y="630" as="sourcePoint" />
+            <mxPoint x="360.0000000000023" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RojvY0QY_VeGFR1A-8Ju-22" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.042;entryY=0.336;entryDx=0;entryDy=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="RojvY0QY_VeGFR1A-8Ju-1" target="RojvY0QY_VeGFR1A-8Ju-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="185" y="230" as="sourcePoint" />
+            <mxPoint x="366.72" y="614.6400000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
