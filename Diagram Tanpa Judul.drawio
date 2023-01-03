@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-03T02:33:47.767Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="u6j3aSfZToqj-g4l9cuC" version="20.7.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-01-03T02:36:13.450Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="jWKlr1qiIQ-ir9zT7r_j" version="20.7.3" type="github" pages="2">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="880" dy="476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -109,7 +109,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Jv4OvvFQTeN9pL4F2m3P" name="Halaman-2">
-    <mxGraphModel dx="1760" dy="952" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2454" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -129,7 +129,7 @@
           <mxGeometry x="540" y="150" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RojvY0QY_VeGFR1A-8Ju-6" value="Menghapus kandidat" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="270" width="120" height="80" as="geometry" />
+          <mxGeometry x="250" y="30" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RojvY0QY_VeGFR1A-8Ju-8" value="Generate voter dengan username dan password random" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="310" width="120" height="80" as="geometry" />
@@ -164,9 +164,9 @@
             <mxPoint x="610" y="79.99999999999994" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RojvY0QY_VeGFR1A-8Ju-16" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.024;entryY=0.341;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RojvY0QY_VeGFR1A-8Ju-3" target="RojvY0QY_VeGFR1A-8Ju-6">
+        <mxCell id="RojvY0QY_VeGFR1A-8Ju-16" value="" style="endArrow=none;html=1;rounded=0;entryX=0.71;entryY=0.975;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="RojvY0QY_VeGFR1A-8Ju-3" target="RojvY0QY_VeGFR1A-8Ju-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="490" y="220" as="sourcePoint" />
+            <mxPoint x="380" y="170" as="sourcePoint" />
             <mxPoint x="610" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -202,6 +202,45 @@
             <mxPoint x="185" y="230" as="sourcePoint" />
             <mxPoint x="366.72" y="614.6400000000001" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="RojvY0QY_VeGFR1A-8Ju-23" value="Login" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="300" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RojvY0QY_VeGFR1A-8Ju-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.061;entryY=0.269;entryDx=0;entryDy=0;dashed=1;entryPerimeter=0;" edge="1" parent="1" source="RojvY0QY_VeGFR1A-8Ju-3" target="RojvY0QY_VeGFR1A-8Ju-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="430" as="sourcePoint" />
+            <mxPoint x="650" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RojvY0QY_VeGFR1A-8Ju-25" value="include" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RojvY0QY_VeGFR1A-8Ju-24">
+          <mxGeometry x="0.1456" y="1" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RojvY0QY_VeGFR1A-8Ju-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="RojvY0QY_VeGFR1A-8Ju-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="472.42640687118546" y="248.2842712474569" as="sourcePoint" />
+            <mxPoint x="890" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RojvY0QY_VeGFR1A-8Ju-27" value="include" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RojvY0QY_VeGFR1A-8Ju-26">
+          <mxGeometry x="0.1456" y="1" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RojvY0QY_VeGFR1A-8Ju-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;entryX=0.068;entryY=0.781;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RojvY0QY_VeGFR1A-8Ju-9" target="RojvY0QY_VeGFR1A-8Ju-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480.0000000000002" y="360" as="sourcePoint" />
+            <mxPoint x="900" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RojvY0QY_VeGFR1A-8Ju-29" value="include" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RojvY0QY_VeGFR1A-8Ju-28">
+          <mxGeometry x="0.1456" y="1" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RojvY0QY_VeGFR1A-8Ju-30" value="Voter user diambil dari data yang digenerate admin" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="620" width="190" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
