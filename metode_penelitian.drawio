@@ -1,9 +1,30 @@
-<mxfile host="app.diagrams.net" modified="2024-02-14T06:13:44.033Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" version="22.1.21" etag="2-YjcqZ57vUIhPKMbYN8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-14T06:22:27.669Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="SoE29l0ZTe11CaPVveaK" version="22.1.21" type="github">
   <diagram name="Halaman-1" id="jdxGgYb-opK5xxt-9X0P">
-    <mxGraphModel>
+    <mxGraphModel dx="1018" dy="604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="gm6dwcMXlgpKt-WC20R7-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gm6dwcMXlgpKt-WC20R7-1" target="gm6dwcMXlgpKt-WC20R7-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gm6dwcMXlgpKt-WC20R7-1" value="Analisis Kebutuhan" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gm6dwcMXlgpKt-WC20R7-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gm6dwcMXlgpKt-WC20R7-2" target="gm6dwcMXlgpKt-WC20R7-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gm6dwcMXlgpKt-WC20R7-2" value="Implementasi" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gm6dwcMXlgpKt-WC20R7-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gm6dwcMXlgpKt-WC20R7-3" target="gm6dwcMXlgpKt-WC20R7-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gm6dwcMXlgpKt-WC20R7-3" value="Pengujian" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gm6dwcMXlgpKt-WC20R7-4" value="Pemeliharaan" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
