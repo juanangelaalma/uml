@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-19T08:17:19.268Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="X0sD_pfgvhkpQHNInObz" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-19T08:18:43.946Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="Ni_xMnEDi5l3HLURyM6k" version="23.1.5" type="github">
   <diagram name="Halaman-1" id="dGs4Clej9PPigDJ_YoBb">
     <mxGraphModel dx="1221" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -70,9 +70,6 @@
               <mxPoint x="210" y="560.03" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="l5KLWoDonwK4JVmG3Rjt-12" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="190" y="470" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="l5KLWoDonwK4JVmG3Rjt-13" value="Client" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="105" y="600" width="60" height="30" as="geometry" />
