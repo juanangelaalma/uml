@@ -1,9 +1,27 @@
-<mxfile host="app.diagrams.net" modified="2024-02-21T04:50:21.807Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" version="23.1.5" etag="rWWQrPfLcA_SonH9Qtyo" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-21T04:59:57.195Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="qwoiPzybhW3bs0pSxFcJ" version="23.1.5" type="github">
   <diagram name="Halaman-1" id="odqo5G6KU87LUE8fHCEU">
-    <mxGraphModel>
+    <mxGraphModel dx="1357" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="24-caCGKZ3hmqMoE8zOM-1" value="Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="190" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="24-caCGKZ3hmqMoE8zOM-2" value="Penyewa" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="680" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="24-caCGKZ3hmqMoE8zOM-4" value="Login" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="460" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="24-caCGKZ3hmqMoE8zOM-5" value="Melihat Daftar Penyewa" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="220" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="24-caCGKZ3hmqMoE8zOM-6" value="Melihat Riwayat Transaksi" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="340" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="24-caCGKZ3hmqMoE8zOM-7" value="Melihat Daftar Tagihan" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="490" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
