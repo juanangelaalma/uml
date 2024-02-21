@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-21T05:44:35.557Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="ZLpEanEji40F2tUA764v" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-21T05:44:49.514Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="p6csaw8h2WzkS_LWX8Lq" version="23.1.5" type="github">
   <diagram name="Halaman-1" id="odqo5G6KU87LUE8fHCEU">
     <mxGraphModel dx="1221" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -136,7 +136,7 @@
           <mxGeometry x="240" y="390" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="24-caCGKZ3hmqMoE8zOM-39" value="Melihat Riwayat Transaksi" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="550" width="120" height="80" as="geometry" />
+          <mxGeometry x="240" y="540" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
