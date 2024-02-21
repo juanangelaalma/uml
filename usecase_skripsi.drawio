@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-21T05:12:25.597Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="Z9cJrP_xXiIlu7htF-xz" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-21T05:13:06.850Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="uTt17z6v-Ihf7WHvl5ep" version="23.1.5" type="github">
   <diagram name="Halaman-1" id="odqo5G6KU87LUE8fHCEU">
     <mxGraphModel dx="1110" dy="1828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -72,6 +72,15 @@
           <mxGeometry x="-0.186" y="4" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="24-caCGKZ3hmqMoE8zOM-21" value="Menambah Penyewa" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="-270" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="24-caCGKZ3hmqMoE8zOM-22" value="Menghapus Penyewa" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="-140" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="24-caCGKZ3hmqMoE8zOM-25" value="Mengedit Penyewa" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="-110" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
