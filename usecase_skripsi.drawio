@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-21T05:14:25.543Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="tPHd0osSImLHdpEMigZK" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-21T05:42:23.004Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="Ksh5VLSDAAZn-fJ3fHhd" version="23.1.5" type="github">
   <diagram name="Halaman-1" id="odqo5G6KU87LUE8fHCEU">
-    <mxGraphModel dx="1628" dy="2136" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1110" dy="1828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -80,7 +80,7 @@
           <mxGeometry x="480" y="-190" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="24-caCGKZ3hmqMoE8zOM-25" value="Mengedit Penyewa" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="-90" width="120" height="80" as="geometry" />
+          <mxGeometry x="160" y="-130" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="24-caCGKZ3hmqMoE8zOM-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;dashPattern=8 8;entryX=0.399;entryY=-0.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="24-caCGKZ3hmqMoE8zOM-21" target="24-caCGKZ3hmqMoE8zOM-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -111,6 +111,20 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="24-caCGKZ3hmqMoE8zOM-31" value="exclude" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="24-caCGKZ3hmqMoE8zOM-30">
+          <mxGeometry x="-0.0812" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="24-caCGKZ3hmqMoE8zOM-33" value="Melihat Detail Penyewa" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="24-caCGKZ3hmqMoE8zOM-34" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;dashPattern=8 8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="24-caCGKZ3hmqMoE8zOM-33" target="24-caCGKZ3hmqMoE8zOM-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="286" y="-68" as="sourcePoint" />
+            <mxPoint x="407" y="23" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="24-caCGKZ3hmqMoE8zOM-35" value="exclude" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="24-caCGKZ3hmqMoE8zOM-34">
           <mxGeometry x="-0.0812" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
