@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-27T13:22:37.857Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="oK4uB6gPjGrMCVEzVsLB" version="23.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-27T13:22:57.896Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="7qKcogNoKsg_b1Um9drY" version="23.1.7" type="github">
   <diagram name="Halaman-1" id="dGs4Clej9PPigDJ_YoBb">
-    <mxGraphModel dx="1744" dy="1036" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1018" dy="604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,12 +8,12 @@
           <mxGeometry x="90" y="490" width="90" height="100" as="geometry" />
         </mxCell>
         <mxCell id="l5KLWoDonwK4JVmG3Rjt-2" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/web_server.svg;" parent="1" vertex="1">
-          <mxGeometry x="600" y="493.75" width="106" height="132.5" as="geometry" />
+          <mxGeometry x="600" y="480" width="106" height="132.5" as="geometry" />
         </mxCell>
         <mxCell id="l5KLWoDonwK4JVmG3Rjt-13" value="Client" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="105" y="600" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="l5KLWoDonwK4JVmG3Rjt-14" value="Intermediary System" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="l5KLWoDonwK4JVmG3Rjt-14" value="Backend Server" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="614" y="635" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="l5KLWoDonwK4JVmG3Rjt-15" value="Payment Gateway" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
