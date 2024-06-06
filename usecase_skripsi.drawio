@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-06T03:13:51.612Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="dqoqPiRGZ7Un8d8Qqofa" version="24.4.14" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-06T03:14:08.132Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="irWw0tupwmjWea1tKDMQ" version="24.4.14" type="github">
   <diagram name="Halaman-1" id="odqo5G6KU87LUE8fHCEU">
     <mxGraphModel dx="880" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -107,22 +107,8 @@
         <mxCell id="24-caCGKZ3hmqMoE8zOM-38" value="Membayar Tagihan" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="370" y="190" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="24-caCGKZ3hmqMoE8zOM-39" value="Melihat Pembayaran" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="24-caCGKZ3hmqMoE8zOM-39" value="Melihat Detail Pembayaran" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="460" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="24-caCGKZ3hmqMoE8zOM-41" value="Melihat Detail Pembayaran" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="380" y="560" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="24-caCGKZ3hmqMoE8zOM-42" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;dashPattern=8 8;entryX=0.677;entryY=0.994;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" parent="1" source="24-caCGKZ3hmqMoE8zOM-41" target="24-caCGKZ3hmqMoE8zOM-39" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="320" y="460" as="sourcePoint" />
-            <mxPoint x="441" y="551" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="24-caCGKZ3hmqMoE8zOM-43" value="extend" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="24-caCGKZ3hmqMoE8zOM-42" vertex="1" connectable="0">
-          <mxGeometry x="-0.0812" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="24-caCGKZ3hmqMoE8zOM-45" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="24-caCGKZ3hmqMoE8zOM-2" target="24-caCGKZ3hmqMoE8zOM-39" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
