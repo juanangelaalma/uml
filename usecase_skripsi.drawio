@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-06T03:15:20.006Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="DkBUoKCtfJwAMoBB2Yy3" version="24.4.14" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-06T03:15:26.440Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="areB5H9yIWWjfxPWUHF8" version="24.4.14" type="github">
   <diagram name="Halaman-1" id="odqo5G6KU87LUE8fHCEU">
-    <mxGraphModel dx="880" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1760" dy="1090" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -23,12 +23,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1070" y="540" as="sourcePoint" />
             <mxPoint x="960" y="550" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="24-caCGKZ3hmqMoE8zOM-12" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="24-caCGKZ3hmqMoE8zOM-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1105" y="540" as="sourcePoint" />
-            <mxPoint x="760" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="24-caCGKZ3hmqMoE8zOM-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="24-caCGKZ3hmqMoE8zOM-1" target="24-caCGKZ3hmqMoE8zOM-7" edge="1">
