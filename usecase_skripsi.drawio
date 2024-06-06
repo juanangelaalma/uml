@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-06T03:14:08.132Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="irWw0tupwmjWea1tKDMQ" version="24.4.14" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-06T03:14:26.949Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="qhbUGwiW7mXAhLPuDK4Z" version="24.4.14" type="github">
   <diagram name="Halaman-1" id="odqo5G6KU87LUE8fHCEU">
     <mxGraphModel dx="880" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -16,7 +16,7 @@
         <mxCell id="24-caCGKZ3hmqMoE8zOM-5" value="Melihat Daftar Penyewa" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="650" y="240" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="24-caCGKZ3hmqMoE8zOM-6" value="Melihat Riwayat Pembayaran" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="24-caCGKZ3hmqMoE8zOM-6" value="Melihat Riwayat Tagihan" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="640" y="340" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="24-caCGKZ3hmqMoE8zOM-7" value="Melihat Daftar Seluruh Tagihan" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
