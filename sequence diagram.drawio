@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-12T12:42:54.335Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="1T9qbrbDQVuElGhVPj7l" version="24.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-12T13:17:21.249Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="kH1Q5WYTkigk5j7e4FjL" version="24.5.3" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
-    <mxGraphModel dx="880" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1100" dy="681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,8 +10,14 @@
             <mxPoint x="209.5" y="134.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aM9ryv3xv72pqoxQDRHE-1" value="Customer" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
-          <mxGeometry x="40" y="40" width="100" height="300" as="geometry" />
+        <mxCell id="QBmbDSx_dbbPRp1ByL7P-38" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="89.16666666666674" y="599.9966666666668" as="sourcePoint" />
+            <mxPoint x="639.5" y="599.9966666666668" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aM9ryv3xv72pqoxQDRHE-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Customer&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="40" y="40" width="100" height="1020" as="geometry" />
         </mxCell>
         <mxCell id="QBmbDSx_dbbPRp1ByL7P-6" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" edge="1" parent="1" source="aM9ryv3xv72pqoxQDRHE-5" target="QBmbDSx_dbbPRp1ByL7P-5">
           <mxGeometry relative="1" as="geometry">
@@ -20,8 +26,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aM9ryv3xv72pqoxQDRHE-5" value="Frontend" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
-          <mxGeometry x="190" y="40" width="100" height="300" as="geometry" />
+        <mxCell id="aM9ryv3xv72pqoxQDRHE-5" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Frontend&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="190" y="40" width="100" height="1030" as="geometry" />
         </mxCell>
         <mxCell id="aM9ryv3xv72pqoxQDRHE-7" value="dispatch" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -71,26 +77,128 @@
         <mxCell id="aM9ryv3xv72pqoxQDRHE-6" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="1430" y="430" width="10" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="QBmbDSx_dbbPRp1ByL7P-4" value="Klik checkout" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="120" y="110" width="90" height="30" as="geometry" />
+        <mxCell id="QBmbDSx_dbbPRp1ByL7P-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Klik checkout&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="100" y="105" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="QBmbDSx_dbbPRp1ByL7P-9" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" edge="1" parent="1" source="QBmbDSx_dbbPRp1ByL7P-5" target="QBmbDSx_dbbPRp1ByL7P-8">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="QBmbDSx_dbbPRp1ByL7P-5" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Backend&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="340" y="40" width="100" height="1030" as="geometry" />
         </mxCell>
-        <mxCell id="QBmbDSx_dbbPRp1ByL7P-5" value="Backend" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="340" y="40" width="100" height="300" as="geometry" />
+        <mxCell id="QBmbDSx_dbbPRp1ByL7P-7" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Request checkout&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="240" y="140" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QBmbDSx_dbbPRp1ByL7P-7" value="Request checkout" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="255" y="140" width="120" height="30" as="geometry" />
+        <mxCell id="QBmbDSx_dbbPRp1ByL7P-8" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Midtrans&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="480" y="40" width="100" height="830" as="geometry" />
         </mxCell>
-        <mxCell id="QBmbDSx_dbbPRp1ByL7P-8" value="Midtrans" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="480" y="40" width="100" height="300" as="geometry" />
-        </mxCell>
-        <mxCell id="QBmbDSx_dbbPRp1ByL7P-10" value="Request /charge" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="405" y="160" width="110" height="30" as="geometry" />
+        <mxCell id="QBmbDSx_dbbPRp1ByL7P-10" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Request /charge&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="390" y="160" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QBmbDSx_dbbPRp1ByL7P-11" value="Atm/Ebanking" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="590" y="40" width="100" height="300" as="geometry" />
+          <mxGeometry x="590" y="40" width="100" height="1020" as="geometry" />
+        </mxCell>
+        <mxCell id="QBmbDSx_dbbPRp1ByL7P-23" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;transaksi pending&lt;/font&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="220" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QBmbDSx_dbbPRp1ByL7P-26" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;response JSON dengan va_number dari bank&lt;/span&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="350" y="340" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="QBmbDSx_dbbPRp1ByL7P-27" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="390" y="280" width="145" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QBmbDSx_dbbPRp1ByL7P-24" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Response /charge&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="QBmbDSx_dbbPRp1ByL7P-27">
+          <mxGeometry x="-5" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QBmbDSx_dbbPRp1ByL7P-25" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;dashed=1;" edge="1" parent="QBmbDSx_dbbPRp1ByL7P-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="30" as="sourcePoint" />
+            <mxPoint y="30" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QBmbDSx_dbbPRp1ByL7P-32" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;va_number&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="260" y="425" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QBmbDSx_dbbPRp1ByL7P-33" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;dashed=1;" edge="1" parent="1" source="QBmbDSx_dbbPRp1ByL7P-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="375" y="460" as="sourcePoint" />
+            <mxPoint x="240" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QBmbDSx_dbbPRp1ByL7P-34" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Menampikan va_number&lt;/span&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="157.5" y="480" width="165" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QBmbDSx_dbbPRp1ByL7P-35" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;va_number&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="110" y="539.58" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QBmbDSx_dbbPRp1ByL7P-36" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="574.58" as="sourcePoint" />
+            <mxPoint x="90" y="574.58" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QBmbDSx_dbbPRp1ByL7P-37" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="190" as="sourcePoint" />
+            <mxPoint x="530" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QBmbDSx_dbbPRp1ByL7P-39" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Pergi ke ATM atau Ebanking&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="265" y="566" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QBmbDSx_dbbPRp1ByL7P-40" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Transfer ke va_number melalui ATM atau Ebanking&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="175.82999999999998" y="600" width="430" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QBmbDSx_dbbPRp1ByL7P-41" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="89.99666666666674" y="633.9966666666668" as="sourcePoint" />
+            <mxPoint x="640.33" y="633.9966666666668" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QBmbDSx_dbbPRp1ByL7P-42" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Menampilkan status sukses pembayaran&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="215.82999999999998" y="630" width="350" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QBmbDSx_dbbPRp1ByL7P-43" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640.33" y="663.9966666666668" as="sourcePoint" />
+            <mxPoint x="89.99666666666674" y="663.9966666666668" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QBmbDSx_dbbPRp1ByL7P-44" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;transaksi settlement&lt;/font&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="690" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QBmbDSx_dbbPRp1ByL7P-45" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Notifikasi HTTP&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="390" y="740" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QBmbDSx_dbbPRp1ByL7P-46" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" edge="1" parent="1" source="QBmbDSx_dbbPRp1ByL7P-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="775" as="sourcePoint" />
+            <mxPoint x="390" y="775" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QBmbDSx_dbbPRp1ByL7P-49" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;JSON berisi: order_id, transaction_status, dll&lt;/font&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="800" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="QBmbDSx_dbbPRp1ByL7P-52" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="920" as="sourcePoint" />
+            <mxPoint x="390.0033333333334" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QBmbDSx_dbbPRp1ByL7P-53" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="960" as="sourcePoint" />
+            <mxPoint x="460" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QBmbDSx_dbbPRp1ByL7P-54" value="" style="endArrow=classic;html=1;rounded=0;endFill=1;" edge="1" parent="1" target="QBmbDSx_dbbPRp1ByL7P-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="960" as="sourcePoint" />
+            <mxPoint x="470" y="930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QBmbDSx_dbbPRp1ByL7P-55" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Update&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Transaksi&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="465.83" y="910" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QBmbDSx_dbbPRp1ByL7P-56" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Update status transaksi&lt;/font&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320.83" y="990" width="140" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
